@@ -6,12 +6,10 @@ Mobile Developer building Flutter applications and native iOS experiences, from 
 
 ## Selected projects
 
-| Project | What I built | Stack |
-| --- | --- | --- |
-| [Irtiwa / ارتواء](https://ziyad-portfolio-six.vercel.app/en/projects/h2o-calm) | A hydration app with bottle tracking, daily goals, reminders, and widgets. Personal project developed from concept to implementation. | SwiftUI, SwiftData, WidgetKit |
-| [Wasl / وصل](https://ziyad-portfolio-six.vercel.app/en/projects/wasl) | A student transportation and accommodation platform. Contributed to the Flutter frontend within a team. | Flutter, Dart, REST APIs |
-| [نادي بَيْن الثقافي](https://github.com/ziyadalhd/ZainabWeb) | Event registration and administration workflows for a cultural club. | Next.js, TypeScript, Supabase |
-| [Wedding Greetings](https://github.com/ziyadalhd/weddingGreeting) | An Arabic mobile-first greeting flow with personalized image cards. | Next.js, TypeScript, Canvas, Supabase |
+- **[Irtiwa / ارتواء](https://ziyad-portfolio-six.vercel.app/en/projects/h2o-calm)** — An iOS hydration app with bottle tracking, daily goals, reminders, and widgets. Built from concept to implementation with SwiftUI, SwiftData, and WidgetKit.
+- **[Wasl / وصل](https://ziyad-portfolio-six.vercel.app/en/projects/wasl)** — Student transportation and accommodation. Contributed to the Flutter frontend within a team, using Dart and REST APIs.
+- **[نادي بَيْن الثقافي](https://github.com/ziyadalhd/ZainabWeb)** — Event registration and administration workflows. Next.js, TypeScript, and Supabase.
+- **[Wedding Greetings](https://github.com/ziyadalhd/weddingGreeting)** — An Arabic mobile-first greeting flow with personalized image cards. Next.js, TypeScript, Canvas, and Supabase.
 
 Start with **Irtiwa** for my mobile product work, or **نادي بَيْن الثقافي** for a public codebase. The Irtiwa and Wasl source repositories are private; their project pages are public.
 
